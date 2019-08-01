@@ -11,3 +11,6 @@
  In the generated modal, user can click on the close button to close the modal, or click the next and previous buttons to display the indepth information on the next or previous random user respectively
  
  User can also filter the displayed random user information through a search form
+
+Style changed for exceed expection requirements:
+Changed background color of body to pink.
